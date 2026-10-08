@@ -4,6 +4,7 @@
 **Dokumenttyp:** Interne Richtlinie  
 **Version:** 1.0  
 **Gültig ab:** 08.10.2026  
+**Stand: 08.10.2026
 **Geltungsbereich:** Alle Teammitglieder von CES
 
 ---
